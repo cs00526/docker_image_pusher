@@ -1,1 +1,1 @@
-openproject:14-slim
+willfarrell/autoheal:1.2.0
