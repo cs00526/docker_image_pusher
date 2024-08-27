@@ -1,1 +1,1 @@
-openproject/proxy:14-slim
+caddy:2
