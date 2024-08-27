@@ -1,1 +1,1 @@
-caddy:2
+openproject/openproject:${TAG:-14-slim}
