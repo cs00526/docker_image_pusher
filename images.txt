@@ -1,1 +1,1 @@
-caddy:2
+openproject/openproject:14
