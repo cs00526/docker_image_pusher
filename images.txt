@@ -1,1 +1,1 @@
-freeren/qanything-win:v1.2.2
+milvusdb/milvus:v2.3.4
