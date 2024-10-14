@@ -1,1 +1,1 @@
-mysql:8.4
+xixihahaliu01/qanything-linux:v1.5.1
