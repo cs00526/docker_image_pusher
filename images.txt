@@ -1,1 +1,1 @@
-elasticsearch:8.11.3
+xixihahaliu01/qanything-linux:v1.5.1
