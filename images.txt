@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/liyssy/qanything-linux:v1.5.1
+elasticsearch:8.11.3
