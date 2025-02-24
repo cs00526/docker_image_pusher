@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/liyssy/minio:RELEASE.2023-03-20T20-16-18Z
+registry.cn-hangzhou.aliyuncs.com/liyssy/mysql:8.4
