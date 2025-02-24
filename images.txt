@@ -1,1 +1,1 @@
-bitnami/etcd:3.5.5
+registry.cn-hangzhou.aliyuncs.com/liyssy/elasticsearch:8.13.2
