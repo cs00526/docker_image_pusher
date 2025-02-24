@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/liyssy/etcd:v3.5.5
+xixihahaliu01/qanything-linux:v1.5.1
