@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/liyssy/elasticsearch:8.13.2
+registry.cn-hangzhou.aliyuncs.com/liyssy/milvus:v2.4.8
