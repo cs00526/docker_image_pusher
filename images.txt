@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/liyssy/mysql:8.4
+registry.cn-hangzhou.aliyuncs.com/liyssy/qanything-linux:v1.5.1
