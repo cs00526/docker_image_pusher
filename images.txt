@@ -1,1 +1,1 @@
-vastdata/vastbase-vector
+infiniflow/ragflow:v0.19.0-slim
